@@ -1,0 +1,10 @@
+lorem: 19
+ipsum: 19
+en: 15
+que: 14
+texto: 12
+del: 12
+por: 12
+y: 10
+a: 7
+textos: 5
